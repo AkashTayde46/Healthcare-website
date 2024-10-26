@@ -1,0 +1,127 @@
+
+
+
+
+/* .ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  
+  top: 0;
+  display: flex;
+
+  align-items: end;
+  position: fixed;
+
+  
+}
+  */
+/* .li {
+    
+  color: rgb(212, 226, 12);
+  
+  padding: 14px 16px;
+  font-size: 1.5em;
+  text-decoration: none;
+  
+    
+  }
+  .navbar-list a:hover {
+   
+    color: white;
+    font-weight: 700;
+  }
+   
+   body, ul {
+    margin: 0;
+    padding: 0;
+} 
+
+.navbar {
+    /* background-color: #333; Background color of the navbar 
+    padding: 15px 23px; /* Padding around the navbar 
+}
+
+/* .navbar-list {
+    list-style-type: none; /* Remove bullet points from list 
+    display: flex; /* Use flexbox for alignment 
+    justify-content: flex-end; /* Align items to the start (left) 
+}
+
+.navbar-item {
+    margin-right: 20px; /* Space between items 
+}
+
+.navbar-item a {
+    color: #fff; /* Text color 
+    text-decoration: none; Remove underline from links 
+    font-size: 16;  Font size for links 
+}
+
+.navbar-item a:hover {
+    text-decoration: underline; /* Underline on hover 
+} */
+.li {
+  color: #ffd700; /* Changed color to a brighter gold */
+  padding: 8px 18px;/* Adjusted padding for a more compact look */
+  font-size: 1.5em; /* Slightly decreased font size */
+  text-decoration: none;
+  transition: transform 0.3s ease, color 0.3s ease; 
+  padding-bottom: 0px;
+  margin-top: 0px;
+  
+}
+
+.navbar-list a:hover {
+  color: #ffa500; /* Changed hover color to a vibrant orange */
+  font-weight: bold; 
+  transform: scale(1.1);/* Changed to 'bold' for better emphasis */
+}
+
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #444; /* Updated background color for better contrast */
+  padding: 2px 23px;
+  height: 46px;
+  
+   /* Increased padding for a more spacious navbar */
+}
+
+.navbar-list {
+  list-style-type: none; /* Remove bullet points from list */
+  display: flex; /* Use flexbox for alignment */
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0; /* Space out items evenly */
+}
+
+.navbar-item {
+  margin-right: 25px; /* Increased space between items */
+}
+
+.navbar-item a {
+  color: #f0f0f0; /* Lighter text color for better readability */
+  text-decoration: none; /* Remove underline from links */
+  font-size: 18px; /* Updated font size for links */
+}
+
+.navbar-item a:hover {
+  text-decoration: underline; /* Underline on hover */
+  color: #ffd700;
+  transform: scale(1.1); /* Change hover color for links */
+}
+.h{
+  height: 46px;
+
+  margin-bottom: 0;
+  width: 46px;
+  filter: brightness(0) invert(1); /* Change to white */
+   /* Adjust padding as needed */
+  display: block;
+}

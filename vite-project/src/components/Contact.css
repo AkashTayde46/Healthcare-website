@@ -1,0 +1,62 @@
+/* src/Contact.css */
+.body23 {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* Light background for contrast */
+    margin: 0;
+    padding: 20px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333; /* Darker text color */
+}
+
+.search-container {
+   justify-content: center;
+   /* margin-left: 446px; */
+   margin: auto;
+    position: relative;
+    width: 346px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Ensures suggestions stay within bounds */
+}
+
+input {
+    width: 100%;
+    padding: 12px 15px; /* Increased padding for better touch */
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Match with container */
+    font-size: 16px; /* Larger font for better readability */
+}
+
+input:focus {
+    outline: none; /* Remove default outline */
+    border-color: #007bff; /* Blue border on focus */
+}
+
+.suggestions {
+    position: absolute;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Match with input */
+    width: 100%;
+    z-index: 10;
+    margin-top: 5px; /* Space between input and suggestions */
+    max-height: 200px; /* Limit height for better UX */
+    overflow-y: auto; /* Scroll if suggestions overflow */
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background: #f0f0f0; /* Light gray on hover */
+}

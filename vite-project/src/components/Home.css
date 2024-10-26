@@ -1,0 +1,461 @@
+/* Body{
+    background-image: url(https://api.vitalityhealthcare.in//Media/Slider/5c5136f825d88018d0acb7c9.png);
+    Background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+    
+} */
+Body{
+    background-color:rgb(179, 179, 236);
+
+
+   
+}
+
+header {
+    background-color: #007BFF;
+    
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero {
+    background: src('') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.cta-button {
+    background-color: #FF5722;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container1{
+    padding: 20px;
+    text-align: center;
+}
+.services, .about, .testimonials {
+    margin: 20px 0;
+    color: #fff
+}
+.service, .testimonial {
+    margin-bottom: 20px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 16; /* Font size for links */
+}
+
+
+
+
+.flex1{
+    display: flex;
+    float: left;v/* Body{
+    background-image: url(https://api.vitalityhealthcare.in//Media/Slider/5c5136f825d88018d0acb7c9.png);
+    Background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+    
+} */
+Body{
+    background-color:rgb(154, 154, 209);
+}
+
+header {
+    background-color: #007BFF;
+    
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero {
+    background: src('') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.cta-button {
+    background-color: #FF5722;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container1{
+    padding: 20px;
+    text-align: center;
+}
+.services, .about, .testimonials {
+    margin: 20px 0;
+    color: #fff
+}
+.service, .testimonial {
+    margin-bottom: 20px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 16; /* Font size for links */
+}
+
+
+
+
+.flex1{
+    display: flex;
+    float: left;
+}/* Body{
+    background-image: url(https://api.vitalityhealthcare.in//Media/Slider/5c5136f825d88018d0acb7c9.png);
+    Background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+    
+} */
+Body{
+    background-color:rgb(154, 154, 209);
+}
+
+header {
+    background-color: #007BFF;
+    
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero {
+    background: src('') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.cta-button {
+    background-color: #FF5722;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container1{
+    padding: 20px;
+    text-align: center;
+}
+.services, .about, .testimonials {
+    margin: 20px 0;
+    color: #fff
+}
+.service, .testimonial {
+    margin-bottom: 20px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 16; /* Font size for links */
+}
+
+
+
+
+.flex1{
+    display: flex;
+    float: left;
+}/* Body{
+    background-image: url(https://api.vitalityhealthcare.in//Media/Slider/5c5136f825d88018d0acb7c9.png);
+    Background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+    
+} */
+Body{
+    background-color:rgb(154, 154, 209);
+}
+
+header {
+    background-color: #007BFF;
+    
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero {
+    background: src('') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.cta-button {
+    background-color: #FF5722;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container1{
+    padding: 20px;
+    text-align: center;
+}
+.services, .about, .testimonials {
+    margin: 20px 0;
+    color: #fff
+}
+.service, .testimonial {
+    margin-bottom: 20px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 16; /* Font size for links */
+}
+
+
+
+
+.flex1{
+    display: flex;
+    float: left;
+}/* Body{
+    background-image: url(https://api.vitalityhealthcare.in//Media/Slider/5c5136f825d88018d0acb7c9.png);
+    Background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+
+    
+} */
+Body{
+    background-color:rgb(154, 154, 209);
+}
+
+header {
+    background-color: #007BFF;
+    
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.hero {
+    background: src('') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+}
+.cta-button {
+    background-color: #FF5722;
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container1{
+    padding: 20px;
+    text-align: center;
+}
+.services, .about, .testimonials {
+    margin: 20px 0;
+    color: #fff
+}
+.service, .testimonial {
+    margin-bottom: 20px;
+    
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+.a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    /* Font size for links */
+}
+
+
+
+
+.flex1{
+    display: flex;
+    float: left;
+}
+}
+.btn1 {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 46px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    width: 50%;
+}
+
+.btn1:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.btn1:active {
+    background-color: #004085;
+    transform: translateY(0);
+}
+
+.btn1:focus {
+    outline: 2px solid #0056b3;
+    outline-offset: 2px;
+}
+.card-container {
+    display: flex;
+    gap: 64px;
+    justify-content: space-between; /* Space between cards */
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 364px; /* Fixed width for cards */
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-title {
+    color:black;
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.card-text {
+    color: #555;
+    margin: 10px 0 20px;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    width:auto;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
